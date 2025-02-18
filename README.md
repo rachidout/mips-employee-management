@@ -29,4 +29,4 @@ It allows various operations on this data, such as displaying employees, searchi
 
 ## Author
 
-- Rachid OUTSILA - Project completed as part of the **Computer Architecture (Semestre 3)** course.
+- Rachid OUTSILA - Project completed as part of the **Computer Architecture** course.
